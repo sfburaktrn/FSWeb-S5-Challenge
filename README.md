@@ -10,9 +10,9 @@ Bu sprint mücadelesi sırasında işbirliği yapmanıza izin verilmez.
 
 ### Proje Kurulumu
 
-* [ ] Bu projenyi forklayarak bir kopyasını oluşturun.
-* [ ] Reponun kendi versiyonunuzu klonlayın.
-* [ ] Commitinizi pushlayın: `git push origin main`.
+- [ ] Bu projenyi forklayarak bir kopyasını oluşturun.
+- [ ] Reponun kendi versiyonunuzu klonlayın.
+- [ ] Commitinizi pushlayın: `git push origin main`.
 
 ## Proje Açıklaması
 
@@ -47,7 +47,6 @@ Aşağıda listelenen minimum uygulanabilir ürün (MVP) spesifikasyonlarını k
 - Yazım denetimi ve dilbilgisi denetimi de dahil olmak üzere çalışmanızı gözden geçirmek, iyileştirmek için zaman planlayın.
 - MVP'yi karşılayan bir meydan okuma göndermek, çok fazla detayla uğraşılıp da çalışmayan bir kod göndermekten daha iyidir.
 
-
 ## Ek Sorular
 
 Aşağıdaki soruları yanıtlayarak bu sprint'in kavramlarını anladığınızı gösterin. Her sorudan sonra yanıtlarınızı eklemek için bu belgeyi düzenleyin.
@@ -57,3 +56,9 @@ Aşağıdaki soruları yanıtlayarak bu sprint'in kavramlarını anladığınız
 3. Bir event dinleyici(listener) nedir?
 4. Neden bir NodeList'i Array'e dönüştürelim??
 5. Bileşen nedir?
+
+1.HTML içerisinde bulunan nesnelere kolaylıkla erişim sağlamak ve üzerinde işlemler yapabilmek için tasarlanan model.
+2.HTML nesneleri üzerinde oluşan eylem
+3.Kullanıcı bir düğmeyi tıkladığında olduğu gibi belirli bir olay gerçekleştiğinde çağrılacak işlev
+4.Array ler obje üzerine kuruldukları için
+5.Bileşenler kullanıcı arayüzünü ayrıştırarak birbirinden bağımsız ve tekrar kullanılabilen parçalar oluşturmanızı sağlayan şeydir.
